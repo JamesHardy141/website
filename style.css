@@ -15,9 +15,8 @@
         font-size: 90px;
       }
 
-      p {
-        text-align: left;
-        font-size: 90px;
+      .paragraph{
+	font-size: 90px;
       }
   
       .name{
