@@ -1,6 +1,6 @@
       
     header {
-      background-color: #564428;
+      background-color: #34374C;
       border:0px;
       padding: 0px;
       margin: 0px;
@@ -50,9 +50,9 @@
       	width: 130px;
       	top: 10px;
         font-size: 20px;
-      	background-color:#564428;
+      	background-color: #2C2E3E;
       	border:0px;
-        color: #fffde8
+        color: #EE2B47
       }
       .linkButton:hover{
       	background-color: #332722;
